@@ -1,4 +1,4 @@
-<h1 align="center">Facial Expression Detection</h1>
+<h1 align="center">Facial Emotion Detection</h1>
 
 <p align="center">
   Real-time facial expression detection using <strong>face-api.js</strong>, <strong>tinyFaceDetector</strong> model, and web technologies (HTML, CSS, and JavaScript).
