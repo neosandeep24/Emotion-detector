@@ -10,10 +10,13 @@
 
 ---
 ## Demo images
-![Screenshot (355)](https://github.com/user-attachments/assets/8e30449d-1aa2-495d-8dac-33265eb300c3)
-![Screenshot (360)](https://github.com/user-attachments/assets/51eaf75c-9269-4cae-bf3c-722e687ff868)
-![Screenshot (364)](https://github.com/user-attachments/assets/83be11da-74fb-4169-980e-1735b7fa28a4)
-![Screenshot (367)](https://github.com/user-attachments/assets/cbbf7712-fec7-462c-8e3c-74321b2118fa)
+
+![11](https://github.com/user-attachments/assets/5407897f-85ac-41f1-bf57-5aafffa567fa)
+![44](https://github.com/user-attachments/assets/2279f44d-2ebf-4772-b179-32eee7baedf8)
+![33](https://github.com/user-attachments/assets/9fdbe7ef-cdfe-48a4-8fca-a64089a2beec)
+![22](https://github.com/user-attachments/assets/54cf01f3-540a-46c9-a71a-70e587c917f3)
+
+
 
 ## 🛠️ Technologies Used
 
