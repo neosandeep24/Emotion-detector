@@ -9,6 +9,11 @@
 <h1 align="center" style="font-size: 40px;">🚀 <a href="https://expression-detector.vercel.app/" target="_blank">Live Demo</a></h1>
 
 ---
+## Demo images
+![Screenshot (355)](https://github.com/user-attachments/assets/8e30449d-1aa2-495d-8dac-33265eb300c3)
+![Screenshot (360)](https://github.com/user-attachments/assets/51eaf75c-9269-4cae-bf3c-722e687ff868)
+![Screenshot (364)](https://github.com/user-attachments/assets/83be11da-74fb-4169-980e-1735b7fa28a4)
+![Screenshot (367)](https://github.com/user-attachments/assets/cbbf7712-fec7-462c-8e3c-74321b2118fa)
 
 ## 🛠️ Technologies Used
 
