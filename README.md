@@ -6,8 +6,6 @@
 
 ---
 
-<h1 align="center" style="font-size: 40px;">🚀 <a href="https://expression-detector.vercel.app/" target="_blank">Live Demo</a></h1>
-
 ---
 ## Demo images
 
