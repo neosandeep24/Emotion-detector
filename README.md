@@ -5,8 +5,6 @@
 </p>
 
 ---
-
----
 ## Demo images
 
 ![11](https://github.com/user-attachments/assets/5407897f-85ac-41f1-bf57-5aafffa567fa)
